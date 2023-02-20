@@ -1,0 +1,26 @@
+[1.781s] Invoking command in 'D:\_Seo\MORAISIM_Training\MORASIM_Training\8_SSAFY\Mini\catkin_ws\src\my_package': PYTHONPATH=D:\_Seo\MORAISIM_Training\MORASIM_Training\8_SSAFY\Mini\catkin_ws\install\my_package\Lib\site-packages;%PYTHONPATH% c:\python37\python.exe setup.py egg_info --egg-base ..\..\build\my_package build --build-base D:\_Seo\MORAISIM_Training\MORASIM_Training\8_SSAFY\Mini\catkin_ws\build\my_package\build install --prefix D:\_Seo\MORAISIM_Training\MORASIM_Training\8_SSAFY\Mini\catkin_ws\install\my_package --record D:\_Seo\MORAISIM_Training\MORASIM_Training\8_SSAFY\Mini\catkin_ws\build\my_package\install.log --single-version-externally-managed
+[2.469s] running egg_info
+[2.516s] writing ..\..\build\my_package\my_package.egg-info\PKG-INFO
+[2.531s] writing dependency_links to ..\..\build\my_package\my_package.egg-info\dependency_links.txt
+[2.594s] writing entry points to ..\..\build\my_package\my_package.egg-info\entry_points.txt
+[2.641s] writing requirements to ..\..\build\my_package\my_package.egg-info\requires.txt
+[2.656s] writing top-level names to ..\..\build\my_package\my_package.egg-info\top_level.txt
+[2.719s] reading manifest file '..\..\build\my_package\my_package.egg-info\SOURCES.txt'
+[2.719s] running build
+[2.719s] running build_py
+[2.719s] running install
+[2.734s] running install_lib
+[2.766s] copying D:\_Seo\MORAISIM_Training\MORASIM_Training\8_SSAFY\Mini\catkin_ws\build\my_package\build\lib\my_package\my_node.py -> D:\_Seo\MORAISIM_Training\MORASIM_Training\8_SSAFY\Mini\catkin_ws\install\my_package\Lib\site-packages\my_package
+[2.766s] copying D:\_Seo\MORAISIM_Training\MORASIM_Training\8_SSAFY\Mini\catkin_ws\build\my_package\build\lib\my_package\__init__.py -> D:\_Seo\MORAISIM_Training\MORASIM_Training\8_SSAFY\Mini\catkin_ws\install\my_package\Lib\site-packages\my_package
+[2.781s] running install_data
+[2.797s] running install_egg_info
+[2.859s] running install_scripts
+[2.969s] Installing my_node-script.py script to D:\_Seo\MORAISIM_Training\MORASIM_Training\8_SSAFY\Mini\catkin_ws\install\my_package\lib\my_package
+[2.969s] Installing my_node.exe script to D:\_Seo\MORAISIM_Training\MORASIM_Training\8_SSAFY\Mini\catkin_ws\install\my_package\lib\my_package
+[2.969s] c:\python37\lib\site-packages\setuptools\dist.py:741: UserWarning: Usage of dash-separated 'script-dir' will not be supported in future versions. Please use the underscore name 'script_dir' instead
+[2.969s]   % (opt, underscore_opt)
+[2.969s] c:\python37\lib\site-packages\setuptools\dist.py:741: UserWarning: Usage of dash-separated 'install-scripts' will not be supported in future versions. Please use the underscore name 'install_scripts' instead
+[2.969s]   % (opt, underscore_opt)
+[2.969s] c:\python37\lib\site-packages\setuptools\command\install.py:37: SetuptoolsDeprecationWarning: setup.py install is deprecated. Use build and pip and other standards-based tools.
+[2.969s]   setuptools.SetuptoolsDeprecationWarning,
+[3.000s] Invoked command in 'D:\_Seo\MORAISIM_Training\MORASIM_Training\8_SSAFY\Mini\catkin_ws\src\my_package' returned '0': PYTHONPATH=D:\_Seo\MORAISIM_Training\MORASIM_Training\8_SSAFY\Mini\catkin_ws\install\my_package\Lib\site-packages;%PYTHONPATH% c:\python37\python.exe setup.py egg_info --egg-base ..\..\build\my_package build --build-base D:\_Seo\MORAISIM_Training\MORASIM_Training\8_SSAFY\Mini\catkin_ws\build\my_package\build install --prefix D:\_Seo\MORAISIM_Training\MORASIM_Training\8_SSAFY\Mini\catkin_ws\install\my_package --record D:\_Seo\MORAISIM_Training\MORASIM_Training\8_SSAFY\Mini\catkin_ws\build\my_package\install.log --single-version-externally-managed
